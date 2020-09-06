@@ -1,0 +1,70 @@
+
+5.1
+liczba	rodzina
+137	nigero-kongijska
+65	austronezyjska
+63	indoeuropejska
+43	sino-tybetanska
+30	nilo-saharyjska
+28	afroazjatycka
+23	dajska
+20	austroazjatycka
+15	turecka
+15	drawidyjska
+8	jezyk izolowany
+7	otomang
+7	polnocno-wschodniokaukaska
+5	mongolska
+5	majanska
+4	hmong-mien
+3	abchasko-adygijska
+3	uralska
+1	tupi
+1	keczua
+1	algijska
+1	uto-aztecka
+1	na-dene
+1	tungusko-mandzurska
+
+5.2
+COUNT(*)
+20
+
+5.3
+jezyk
+angielski
+arabski
+gudzaracki
+tamilski
+
+5.4
+pop	rodzina	jezyk
+0.1	jezyk izolowany	mapuche
+0.2	tupi	guarani
+0.2	indoeuropejska	jidysz
+0.2	indoeuropejska	katalonski
+0.4	jezyk izolowany	japonski
+0.8	keczua	keczua
+1.0	afroazjatycka	arabski
+1.5	indoeuropejska	wloski
+1.9	indoeuropejska	niemiecki
+87.0	indoeuropejska	hiszpanski
+202.0	indoeuropejska	portugalski
+
+5.5
+panstwo	jezyk
+Indie	bengalski
+Indie	gudzaracki
+USA	hiszpanski
+Indonezja	jawajski
+Indie	kannada
+Chiny	kantonski
+Indie	malayalam
+Indie	marathi
+Indie	odia
+Etiopia	oromo
+Pakistan	pendzabski
+Indonezja	sundanese
+Indie	tamilski
+Indie	telugu
+Indie	urdu

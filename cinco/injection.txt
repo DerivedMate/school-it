@@ -1,0 +1,3 @@
+/home/tomasz/Proyectos/mysql/Dane_PR2_2020/jezyki.txt
+/home/tomasz/Proyectos/mysql/Dane_PR2_2020/panstwa.txt
+/home/tomasz/Proyectos/mysql/Dane_PR2_2020/uzytkownicy.txt
